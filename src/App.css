@@ -34,7 +34,7 @@ main {
   min-height: 90vh;
   display: flex;
   justify-content: center;
-  align-items: flex-start;
+  align-items: flex-center;
 }
 
 h2 {
@@ -43,6 +43,7 @@ h2 {
 }
 
 table {
+
   margin: 3rem;
   border-collapse: collapse;
 }
@@ -82,4 +83,8 @@ footer {
   justify-content: center;
   align-items: center;
   padding: 1rem;
+}
+
+.App {
+  text-align: center;
 }
